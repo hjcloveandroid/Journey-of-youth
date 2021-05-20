@@ -124,17 +124,17 @@ PLAN B: 茶卡盐湖景点
 
 
 注意事项:
-- 天气
+- 天气  
 ![weather](./weather.jpg)
 
-- 饮食
+- 饮食  
 ![food](./food.jpg)
 
-- 景色
+- 景色  
 ![scenery](./scenery.jpg)
 
-- 消费
+- 消费  
 ![consumption](./consumption.jpg)
 
-- 莫高窟
+- 莫高窟  
 ![mogao](./mogao.jpg)
